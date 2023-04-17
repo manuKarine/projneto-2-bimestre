@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.6rem 6rem;
+}
+
+.menuEsquerdo{
+    display: flex;
+    align-items: center;
+}
+
+.menuEsquerdo h1{
+    color: black;
+}
+
+.mnulista {
+    display: flex;
+    align-items: center;
+}
+
+.menulista {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}

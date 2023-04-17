@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(214, 169, 240);
+}
+header{
+    background-color: rgb(231, 135, 235);
+    box-shadow:0px 3px 10px rgb(235, 214, 240);
+}
+
+.ItemMenu{
+    margin: 0 1px;
+}
+
+.linkItem{
+    text-decoration: none;
+    font-size: 14pt;
+    font-weight: 400;
+    color:blueviolet;
+    padding: 0 15px;
+}
+
+.menuDireito a{
+    border: none;
+}
+
+.menuBotao{
+    display: none;
+}
